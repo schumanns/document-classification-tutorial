@@ -1,0 +1,6 @@
+Image Sources
+
+Address bar with translation button - Screen Shot of Google Chrome
+IMDb Logo - By Internet Movie Database (www.imdb.com) [Public domain], via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:IMDB_Logo_2016.svg
+Decision Tree - From an Article by Egor Dezhic - https://becominghuman.ai/understanding-decision-trees-43032111380f
+- purity and entropy - From a presentation by Nikolas Vergos - https://www.slideshare.net/NikolaosVergos/women-in-data-science-meetup-atx-decision-trees
